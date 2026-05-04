@@ -1,0 +1,6 @@
+{
+  "name": "AuthFlow",
+  "description": "A simple and secure authentication system with user registration, login, and a personalized dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
